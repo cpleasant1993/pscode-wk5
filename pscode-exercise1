@@ -1,0 +1,7 @@
+INPUT n.
+remainder = n % 2.
+IF remainder is not equal to 0.
+answer = odd.
+ELSE.
+answer = even.
+OUTPUT answer.
